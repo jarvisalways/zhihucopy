@@ -1,3 +1,3 @@
 # zhihucopy
 init
-！[view](https://github.com/jarvisalways/zhihucopy/blob/master/static/red.md)
+！[view](https://github.com/jarvisalways/zhihucopy/blob/master/static/red.gif)
